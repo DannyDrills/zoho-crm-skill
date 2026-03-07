@@ -1,0 +1,16 @@
+agent:
+  agentId: baseAgent_agent_1761749302775_o0kdjh2pa
+  orgId: 026cc41b-e013-4474-9b65-5a15f8881f92
+skills:
+  - name: slack-skill
+    version: 1.0.2
+    skillId: e2889995-7abc-44ff-9abd-b288e70d2b40
+  - name: brex-skill
+    version: 1.0.0
+    skillId: 23e486f3-b8b2-4538-a00e-e5ab21cb6a06
+  - name: airtable-read-skill
+    version: 1.0.2
+    skillId: 0f648f3a-8929-49ec-849d-059469d22c41
+  - name: airtable-write-skill
+    version: 1.0.1
+    skillId: 69a8eb2a-194d-4b76-9b2e-f0f25f4ad316

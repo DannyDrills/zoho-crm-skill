@@ -1,0 +1,7 @@
+agent:
+  agentId: baseAgent_agent_1760604650206_bawxr1zi2
+  orgId: dbd0a9f7-641f-4205-b3c0-7ad3cf84454c
+skills:
+  - name: hotel-concierge
+    version: 1.0.0
+    skillId: f4a927c4-1268-419c-b130-4f5aa8e89deb
